@@ -1,7 +1,7 @@
 {
    "name": "FixVoiceMessageCrash",
-   "version": "1.0.1",
-   "description": "Temporary fix for crash due to voice messages",
+   "version": "1.0.2",
+   "description": "Show voice messages as a normal attachment to avoid crash",
    "authors": [
       {
          "name": "mafu",
