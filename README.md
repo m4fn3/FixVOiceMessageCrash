@@ -1,4 +1,4 @@
-# NoBlockedMessage
+# FixVoiceMessageCrash
 
 ## Install
-https://raw.githubusercontent.com/m4fn3/NoBlockedMessage/master/dist/NoBlockedMessage.js
+https://github.com/m4fn3/FixVoiceMessageCrash/blob/master/dist/FixVoiceMessageCrash.js
