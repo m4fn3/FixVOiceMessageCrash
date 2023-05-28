@@ -1,4 +1,4 @@
 # FixVoiceMessageCrash
 
 ## Install
-https://github.com/m4fn3/FixVoiceMessageCrash/blob/master/dist/FixVoiceMessageCrash.js
+https://raw.githubusercontent.com/m4fn3/FixVoiceMessageCrash/master/dist/FixVoiceMessageCrash.js
